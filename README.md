@@ -3,7 +3,7 @@
 ## Overview
 
 This project implements an RFID-based attendance system using Python. It automates the process of marking attendance by identifying students through their unique RFID IDs and storing the data in an Excel file.
-
+The student Id's here are the SRN's which must be manually updated to track the attendance 
 ---
 
 ## Features
@@ -86,3 +86,5 @@ The system provides an efficient method for recording attendance and reduces man
 
 * Anwesha
 * Atharvi
+  *Chandana
+  
